@@ -1,11 +1,16 @@
 import React from 'react'
 
-function ajaja() {
+function Footer() {
   return (
+
+    <footer className= "Footer">
     <div>
       <h1>Autor: Štěpán Mieres</h1>
     </div>
+
+    </footer>
+    
   )
 }
 
-export default ajaja
+export default Footer
